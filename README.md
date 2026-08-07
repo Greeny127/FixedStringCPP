@@ -73,8 +73,8 @@ Tests are written with [doctest](https://github.com/doctest/doctest)
 (single header, included in this repo).
 
 ```sh
-g++ test.cpp -o testing/test
-./testing/test
+g++ test.cpp -o testOut
+.testOut
 ```
 
 15 test cases / 58 assertions covering construction, `append`,
