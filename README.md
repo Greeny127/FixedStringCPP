@@ -74,7 +74,7 @@ Tests are written with [doctest](https://github.com/doctest/doctest)
 
 ```sh
 g++ test.cpp -o testOut
-.testOut
+./testOut
 ```
 
 15 test cases / 58 assertions covering construction, `append`,
